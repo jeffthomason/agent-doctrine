@@ -66,3 +66,4 @@ PRs welcome, especially if you've found doctrine patterns that hold up across re
 ---
 
 Built by someone who kept reinventing the same doctrine file by hand across three separate solo-built production apps before finally writing down the version that actually stuck.
+-Jeff
